@@ -6,4 +6,3 @@ public class Demo {
 		System.out.println("push demo class to gitHub");
 	}}
 
-	
